@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1094755307094",
+    "project_id": "scc-421",
+    "storage_bucket": "scc-421.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094755307094:android:749988c52ff26525adb5f7",
+        "android_client_info": {
+          "package_name": "com.theeccloud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsu1XxQBvvihaTDwv9d-EYIlmLZzdxQl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
